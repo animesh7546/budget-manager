@@ -8,14 +8,8 @@ You can then view how close your sending is to your budget.
 If there is any interest in improving this project, kindly submit a pull request with
 proposed changes.
 
-### Demo
-
-YouTube-https://youtu.be/ed4NgkhBOiI
-
-APK Download - 
 
 
-More Projects - https://projectworlds.in
 
 # Screenshots
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584126/9f3b6e3e-0125-11e7-8c0a-27d176dd0c00.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584126/9f3b6e3e-0125-11e7-8c0a-27d176dd0c00.png)
@@ -36,12 +30,4 @@ compile the application and run all unit tests:
 
 
 
-# Thanks
 
-App icons from [The Noun Project](https://thenounproject.com) and
-[Icons8](https://icons8.com), specifically:
-- [Purse](https://thenounproject.com/term/purse/26896/) by
-[Dima Lagunov](https://thenounproject.com/lagunov.dmitriy/)
-- [Ticket Bill](https://thenounproject.com/term/ticket-bill/634398/)
-by [naim](https://thenounproject.com/naim.solis/)
-- [Save](https://thenounproject.com/term/save/716011) by [Bernar Novalyi](https://thenounproject.com/bernar.novalyi)
